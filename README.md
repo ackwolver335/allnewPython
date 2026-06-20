@@ -2,4 +2,6 @@
 
 - This is a simple repo containing all data regarding courses available on linkdin, and all its data that is provided for learning.
 
-- Let's make something bigger now !
+# LinkedIn Course :
+
+- **Python Essential Training** - By **Ryan Mitchell**

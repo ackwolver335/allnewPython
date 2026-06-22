@@ -1,6 +1,6 @@
 # Chapter 1 : Gearing up for Python
 
-- 
+- In this Chapter, we will cover the **Topics** mentioned below, including, *How the memory and processor works together ?*, *Installation of different Python Components*, **Python IDLE**, *Writing a Simple Python Code!* and **Basic Usage of Notepad**,..etc
 
 ## Topics Covered :
 
@@ -10,6 +10,8 @@
 4. **Writing a Program**
 5. **Jupyter Notebook**
 6. **Using Coderpad**
+
+**Note** : All codes regarding this files are given in the file named **CH2.py** in order to get the code file run by you, and find the reason behind running a particular set of code.
 
 ### How Computers think ?
 
@@ -26,7 +28,7 @@
 
 **Sample Program** ( Just an example ) :
 
-```bash
+```python
 a = 2
 b = 3
 c = a + b
@@ -74,7 +76,7 @@ python
 
 - For Testing, if the Python is working correctly, you can try a simple calculation below :
 
-```bash
+```python
 1 + 1
 
 # for exiting Python IDLE, try the command below
